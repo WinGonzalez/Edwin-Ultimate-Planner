@@ -12,7 +12,7 @@ The current day and month are displayed at the top of the webpage.
 ## Application links 
 
 Deployed Application: <Insert Deployed link Here>
-Getting Started: Prerequisites Web browsers including Chrome, Firefox, Safari Usage: Clone the repository bash Copy code git clone <INSERT GITHUB LINK HERE>Contributing: Contributions are always welcome! Please read my contributing guidelines to get started.
+Getting Started: Prerequisites Web browsers including Chrome, Firefox, Safari Usage: Clone the repository bash Copy code git clone <https://github.com/WinGonzalez/Edwin-Ultimate-Planner>Contributing: Contributions are always welcome! Please read my contributing guidelines to get started.
 
 
 
